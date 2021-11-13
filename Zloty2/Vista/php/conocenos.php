@@ -110,44 +110,19 @@
                                     height: 90px;
                                     isplay: flex;">
                 <img src="../img/adriana.jpg" style= "width: 32%;" >
-                <h5> ADRIANA ROMERO <br>
-                Gerente</h5>
+                <h5 style="color: white"> ADRIANA ROMERO <br>
+                desarrolladora</h5>
 
             </div>
             <div class="img1" style= "width: 35%;
                                     height: 90px;
-                                    display: flex;">
-                <img src="../img/santiago.jpg" >
-                <h5> SANTIAGO GOMES <br>
-                Desarrollador</h5>
-            </div>
-            <div class="img1" style= "width: 35%;
-                                    height: 90px;
-                                    display: flex;">
-                <img src="../img/jonathan.png"  >
-                <h5> JONATHAN SIERRA <br>Analista</h5>
-            </div>
-            </section>
-            <section style= "width: 100%;
-                            height: 50px;
-                            display: flex;
-                            box-sizing: border-box;
-                            margin: auto;
-                            color: black;">
+                                    isplay: flex;">
+                <img src="../img/jessijpeg.jpeg" style= "width: 32%;" >
+                <h5 style="color: white"> jessica <br>
+                desarrolladora</h5>
 
-            <div class="img1" style= "width: 30%;
-                                    height: 90px;
-                                    display: flex;">
-                <img src="../img/kevinc.jpeg"  >
-                <h5> KEVIN CAPERA <br> Diseñador</h5>
             </div>
-            <div class="img1" style= "width: 35%;
-                                    height: 90px;
-                                    display: flex;">
-                <img src="../img/wilmer.jpg"  >
-                <h5> WILMER PERDOMO <br> Supervisor</h5>
-            </div>
-        </section>
+            
         </div>
 
     <br><br><br>
